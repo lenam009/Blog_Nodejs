@@ -1,0 +1,19 @@
+html {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box; }
+
+.test {
+  font-size: 1rem;
+  background-color: red; }
+
+h1 {
+  color: gray; }
+
+.card-course-item {
+  margin-top: 14px; }
+
+.user-avatar {
+  width: 28px;
+  border-radius: 999px;
+  object-fit: cover; }
